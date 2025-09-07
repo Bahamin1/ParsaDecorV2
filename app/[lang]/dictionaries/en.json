@@ -1,0 +1,75 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "portfolio": "Portfolio",
+    "gallery": "Gallery",
+    "contact": "Contact",
+    "products": "Products",
+    "tagline": "Premium Interior Design"
+  },
+  "hero": {
+    "title": "Transform Your Space",
+    "subtitle": "Premium Interior Design",
+    "description": "Create stunning interiors with our expert design services",
+    "cta": "Get Started",
+    "watch_video": "Watch Video",
+    "learn_more": "Learn More"
+  },
+  "gallery": {
+    "title": "Project Gallery",
+    "subtitle": "A collection of our finest interior design projects",
+    "categories": {
+      "all": "All",
+      "before_after": "Before & After",
+      "process": "Process",
+      "details": "Details",
+      "rooms": "Rooms"
+    }
+  },
+  "products": {
+    "title": "Our Products",
+    "subtitle": "Premium Interior Products",
+    "description": "Discover our curated collection of premium interior design products",
+    "categories": {
+      "furniture": "Furniture",
+      "lighting": "Lighting",
+      "decor": "Decor",
+      "textiles": "Textiles"
+    },
+    "view_details": "View Details",
+    "add_to_cart": "Add to Cart",
+    "price": "Price",
+    "availability": "Availability",
+    "in_stock": "In Stock",
+    "out_of_stock": "Out of Stock"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Creating Beautiful Spaces",
+    "description": "We are passionate about transforming spaces into beautiful, functional environments"
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete Interior Solutions"
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in Touch"
+  },
+  "footer": {
+    "company": "Parsa Decor",
+    "description": "Premium interior design services",
+    "rights": "All rights reserved"
+  },
+  "meta": {
+    "title": "Parsa Decor - Premium Interior Design",
+    "description": "Transform your space with luxury interior design solutions",
+    "keywords": "interior design, luxury, decoration, Istanbul, Turkey"
+  },
+  "why_choose_us": {
+    "title": "Why Choose Us",
+    "subtitle": "Excellence in Every Detail"
+  }
+}

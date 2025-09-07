@@ -1,0 +1,100 @@
+{
+  "nav": {
+    "home": "Ana Sayfa",
+    "about": "Hakkımızda",
+    "services": "Hizmetler",
+    "portfolio": "Portföy",
+    "gallery": "Galeri",
+    "contact": "İletişim",
+    "products": "Ürünler",
+    "tagline": "Premium İç Tasarım"
+  },
+  "hero": {
+    "title": "Mekanınızı Dönüştürün",
+    "subtitle": "Premium İç Tasarım",
+    "description": "Uzman tasarım ekibimizle kişiliğinizi yansıtan ve yaşam tarzınızı geliştiren olağanüstü iç mekanlar yaratıyoruz.",
+    "cta": "Projenizi Başlatın",
+    "watch_video": "Video İzle",
+    "learn_more": "Daha Fazla Öğren"
+  },
+  "about": {
+    "title": "Parsa Decor Hakkında",
+    "subtitle": "İç Tasarımda Mükemmellik",
+    "description": "On yılı aşkın deneyimimizle, lüks ve fonksiyonel iç mekanlar yaratma konusunda uzmanız.",
+    "mission": "Misyonumuz",
+    "vision": "Vizyonumuz",
+    "values": "Değerlerimiz"
+  },
+  "services": {
+    "title": "Hizmetlerimiz",
+    "subtitle": "Komple İç Tasarım Çözümleri",
+    "residential": "Konut Tasarımı",
+    "commercial": "Ticari Tasarım",
+    "consultation": "Tasarım Danışmanlığı",
+    "renovation": "Yenileme Hizmetleri"
+  },
+  "portfolio": {
+    "title": "Portföyümüz",
+    "subtitle": "Öne Çıkan Projeler",
+    "view_project": "Projeyi Görüntüle",
+    "all_projects": "Tüm Projeler"
+  },
+  "gallery": {
+    "title": "Proje Galerisi",
+    "subtitle": "En iyi iç tasarım projelerimizin koleksiyonu",
+    "categories": {
+      "all": "Tümü",
+      "living": "Oturma",
+      "bedroom": "Yatak Odası",
+      "kitchen": "Mutfak",
+      "dining": "Yemek Odası",
+      "bathroom": "Banyo",
+      "office": "Ofis",
+      "commercial": "Ticari"
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Bize Ulaşın",
+    "address": "Adres",
+    "phone": "Telefon",
+    "email": "E-posta",
+    "send_message": "Mesaj Gönder"
+  },
+  "products": {
+    "title": "Ürünlerimiz",
+    "subtitle": "Premium İç Mekan Ürünleri",
+    "description": "Premium mobilya ve dekor ürünlerinden oluşan özenle seçilmiş koleksiyonumuzu keşfedin",
+    "categories": {
+      "furniture": "Mobilya",
+      "lighting": "Aydınlatma",
+      "decor": "Dekor",
+      "textiles": "Tekstil"
+    },
+    "view_details": "Detayları Görüntüle",
+    "add_to_cart": "Sepete Ekle",
+    "price": "Fiyat",
+    "availability": "Stok Durumu",
+    "in_stock": "Stokta",
+    "out_of_stock": "Stokta Yok"
+  },
+  "footer": {
+    "tagline": "2010'dan beri güzel mekanlar yaratıyoruz",
+    "quick_links": "Hızlı Bağlantılar",
+    "services_title": "Hizmetler",
+    "contact_info": "İletişim Bilgileri",
+    "follow_us": "Bizi Takip Edin",
+    "newsletter": "Bülten",
+    "newsletter_text": "Güncellemeler için abone olun",
+    "subscribe": "Abone Ol",
+    "rights": "Tüm hakları saklıdır"
+  },
+  "why_choose_us": {
+    "title": "Neden Bizi Seçmelisiniz",
+    "subtitle": "Her Detayda Mükemmellik",
+    "experience": "10+ Yıl Deneyim",
+    "projects": "500+ Tamamlanan Proje",
+    "clients": "Mutlu Müşteriler",
+    "awards": "Tasarım Ödülleri"
+  }
+}
